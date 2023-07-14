@@ -5,7 +5,7 @@ import Body from './Body'
 
 const Home = () => {
   return (
-    <div className="grid grid-flow-col">
+    <div className="grid grid-flow-col bg-[#F5F5F5]">
       <div className="col-span-2">
         <Sidebar />
       </div>
